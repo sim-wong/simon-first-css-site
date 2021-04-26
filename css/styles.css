@@ -90,6 +90,13 @@ p {
   vertical-align: bottom;
 }
 
+.work-image {
+  width:15%;
+  float: middle;
+  margin-left:30px;
+  vertical-align: bottom;
+}
+
 .contact-header {
   clear:right;
 }
