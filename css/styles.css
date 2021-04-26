@@ -94,6 +94,7 @@ p {
   width:15%;
   float:left;
   margin-right:30px;
+  vertical-align: bottom;
 }
 
 .contact-header {
